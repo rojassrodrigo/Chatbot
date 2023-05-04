@@ -140,7 +140,7 @@ const handleSubmit = async (event: React.FormEvent) => {
         className='rounded rounded-r-none flex-1 border border-gray-400 py-2 px-4'
         type='text'
         placeholder='Escribe tu pregunta...'
-        style={{ color: 'black' }}
+        style={{ color: 'white' }}
       />
       <button
         className={`px-4 py-2 bg-blue-500 rounded-lg rounded-l-none ${
